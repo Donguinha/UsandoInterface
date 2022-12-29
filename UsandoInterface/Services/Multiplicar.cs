@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace UsandoInterface.Services
 {
-    internal class Multiplicar : IOperacao
+    public class Multiplicar : IOperacao
     {
         public double Operacao(double numero1, double numero2)
         {
