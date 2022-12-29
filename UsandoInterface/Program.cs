@@ -18,6 +18,7 @@ namespace UsandoInterface
                     "\nVerificar se é par ou impar 3");
                 var escolha = int.Parse(Console.ReadLine());
 
+
                 Console.Write("\nNumero 1: ");
                 var num1 = double.Parse(Console.ReadLine());
 
